@@ -1,5 +1,7 @@
 # This is a fork of Estraverse, solely for the purposes of modifying the .babelrc file for RN compatibility
 
+Original README follows:
+
 ### Estraverse [![Build Status](https://secure.travis-ci.org/estools/estraverse.png)](http://travis-ci.org/estools/estraverse)
 
 Estraverse ([estraverse](http://github.com/estools/estraverse)) is
